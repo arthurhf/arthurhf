@@ -5,6 +5,8 @@
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/arthur_h_f13)
 
+[Perfil na Udemy](https://www.udemy.com/user/arthur-fernandes-5/)
+
 ## Minhas habilidades
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
